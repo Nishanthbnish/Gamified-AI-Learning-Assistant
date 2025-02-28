@@ -1,0 +1,260 @@
+2025-02-28 14:37:26,600 - INFO - Initialized new user data
+2025-02-28 14:37:31,635 - INFO - Video feed started
+2025-02-28 14:37:31,636 - INFO - Session started for Mathematics
+2025-02-28 14:37:58,372 - ERROR - Response evaluation error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/nishanthbangera/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/share/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-02-28 14:37:58,374 - INFO - Submission processed for Mathematics - Question 0
+2025-02-28 14:38:04,666 - ERROR - Response evaluation error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/nishanthbangera/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/share/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-02-28 14:38:04,667 - INFO - Submission processed for Mathematics - Question 0
+2025-02-28 14:38:27,919 - ERROR - Response evaluation error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/nishanthbangera/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/share/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-02-28 14:38:27,920 - INFO - Submission processed for Mathematics - Question 0
+2025-02-28 14:40:54,086 - INFO - Initialized new user data
+2025-02-28 14:41:00,286 - INFO - Video feed started
+2025-02-28 14:41:00,288 - INFO - Session started for Programming
+2025-02-28 14:41:15,950 - ERROR - Response evaluation error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/nishanthbangera/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/share/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-02-28 14:41:15,951 - INFO - Submission processed for Programming - Question 0
+2025-02-28 14:41:39,918 - ERROR - Response evaluation error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/nishanthbangera/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/share/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-02-28 14:41:39,919 - INFO - Submission processed for Programming - Question 0
+2025-02-28 14:44:45,537 - INFO - Initialized new user data
+2025-02-28 14:44:49,657 - INFO - Video feed started
+2025-02-28 14:44:49,658 - INFO - Session started for Mathematics
+2025-02-28 14:45:55,231 - ERROR - Response evaluation error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/nishanthbangera/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/share/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-02-28 14:45:55,232 - INFO - Submission processed for Mathematics - Question 0
+2025-02-28 14:46:11,504 - ERROR - Response evaluation error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/Users/nishanthbangera/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/share/nltk_data'
+    - '/Library/Frameworks/Python.framework/Versions/3.8/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2025-02-28 14:46:11,506 - INFO - Submission processed for Mathematics - Question 0
+2025-02-28 14:49:54,730 - INFO - Initialized new user data
+2025-02-28 14:49:59,099 - INFO - Video feed started
+2025-02-28 14:49:59,101 - INFO - Session started for Mathematics
+2025-02-28 14:50:12,991 - INFO - Submission processed for Mathematics - Question 1
+2025-02-28 14:50:13,039 - INFO - Submission processed for Mathematics - Question 2
+2025-02-28 14:50:13,041 - INFO - Submission processed for Mathematics - Question 3
+2025-02-28 14:50:13,043 - INFO - Submission processed for Mathematics - Question 4
+2025-02-28 14:50:13,045 - INFO - Submission processed for Mathematics - Question 5
+2025-02-28 14:50:26,830 - INFO - Submission processed for Mathematics - Question 6
+2025-02-28 14:50:56,937 - INFO - Submission processed for Mathematics - Question 7
+2025-02-28 14:51:07,103 - INFO - Submission processed for Mathematics - Question 8
+2025-02-28 14:51:36,837 - INFO - Submission processed for Mathematics - Question 9
+2025-02-28 15:05:23,928 - INFO - Microphone initialized successfully
+2025-02-28 15:05:27,535 - INFO - Progress updated: Level 2, XP 50, Progress 0.0
+2025-02-28 15:05:27,536 - ERROR - Failed to start video: 'NoneType' object has no attribute 'get'
+2025-02-28 15:05:29,938 - INFO - Progress updated: Level 2, XP 50, Progress 0.0
+2025-02-28 15:05:30,950 - INFO - No specific video found, using webcam
+2025-02-28 15:05:31,027 - INFO - Video feed started
+2025-02-28 15:05:31,027 - INFO - Loaded question: What is 8 × 4?
+2025-02-28 15:05:31,027 - INFO - Session started for Mathematics at Level 2
+2025-02-28 15:05:36,038 - INFO - Listening for speech...
+2025-02-28 15:05:43,606 - INFO - Listening for speech...
+2025-02-28 15:05:46,668 - INFO - Speech recognized: the answer is 32
+2025-02-28 15:05:48,202 - INFO - Submitting response: the answer is 32
+2025-02-28 15:05:57,850 - INFO - Answer evaluated: Correct=True, Questions=1
+2025-02-28 15:05:57,852 - INFO - XP gained: 20, Total XP: 70
+2025-02-28 15:05:57,852 - INFO - XP needed for next level: 100
+2025-02-28 15:05:57,854 - INFO - User data saved
+2025-02-28 15:05:57,854 - INFO - Progress updated: Level 2, XP 70, Progress 0.0
+2025-02-28 15:05:57,855 - INFO - Showing feedback
+2025-02-28 15:05:57,855 - INFO - Submission processed for Mathematics - Question 1
+2025-02-28 15:05:57,891 - INFO - Submitting response: the answer is 32
+2025-02-28 15:05:57,891 - INFO - Answer evaluated: Correct=True, Questions=2
+2025-02-28 15:05:57,891 - INFO - XP gained: 20, Total XP: 90
+2025-02-28 15:05:57,891 - INFO - XP needed for next level: 100
+2025-02-28 15:05:57,893 - INFO - User data saved
+2025-02-28 15:05:57,894 - INFO - Progress updated: Level 2, XP 90, Progress 0.0
+2025-02-28 15:05:57,894 - INFO - Showing feedback
+2025-02-28 15:05:57,894 - INFO - Submission processed for Mathematics - Question 2
+2025-02-28 15:05:57,894 - INFO - Submitting response: the answer is 32
+2025-02-28 15:05:57,895 - INFO - Answer evaluated: Correct=True, Questions=3
+2025-02-28 15:05:57,895 - INFO - XP gained: 20, Total XP: 110
+2025-02-28 15:05:57,895 - INFO - XP needed for next level: 100
+2025-02-28 15:05:57,895 - INFO - Level up to 3
+2025-02-28 15:05:57,897 - INFO - User data saved
+2025-02-28 15:05:57,897 - INFO - Progress updated: Level 3, XP 110, Progress 0.0
+2025-02-28 15:05:57,898 - INFO - Showing feedback
+2025-02-28 15:05:57,898 - INFO - Submission processed for Mathematics - Question 3
+2025-02-28 15:06:01,526 - INFO - Progress updated: Level 3, XP 110, Progress 0.6
+2025-02-28 15:06:01,527 - INFO - Loaded question: What is 8 × 4?
+2025-02-28 15:06:01,527 - INFO - Continuing to new question
+2025-02-28 15:06:10,113 - INFO - Listening for speech...
+2025-02-28 15:06:22,314 - INFO - Speech recognized: answer is 32
+2025-02-28 15:06:24,359 - INFO - Submitting response: answer is 32
+2025-02-28 15:06:24,361 - INFO - Answer evaluated: Correct=True, Questions=4
+2025-02-28 15:06:24,361 - INFO - XP gained: 30, Total XP: 140
+2025-02-28 15:06:24,361 - INFO - XP needed for next level: 150
+2025-02-28 15:06:24,364 - INFO - User data saved
+2025-02-28 15:06:24,365 - INFO - Progress updated: Level 3, XP 140, Progress 0.6
+2025-02-28 15:06:24,365 - INFO - Showing feedback
+2025-02-28 15:06:24,366 - INFO - Submission processed for Mathematics - Question 4
+2025-02-28 15:06:26,597 - INFO - Progress updated: Level 3, XP 140, Progress 0.8
+2025-02-28 15:06:26,598 - INFO - Loaded question: What is 8 × 4?
+2025-02-28 15:06:26,598 - INFO - Continuing to new question
+2025-02-28 15:06:29,281 - INFO - User data saved
+2025-02-28 15:06:29,713 - INFO - Video feed stopped
+2025-02-28 15:06:29,714 - INFO - Returned to home from Mathematics
+2025-02-28 15:06:34,277 - INFO - Progress updated: Level 3, XP 140, Progress 0.8
+2025-02-28 15:06:35,029 - INFO - No specific video found, using webcam
+2025-02-28 15:06:35,051 - INFO - Video feed started
+2025-02-28 15:06:35,052 - INFO - Progress updated: Level 3, XP 140, Progress 0.8
+2025-02-28 15:06:35,052 - INFO - Loaded question: Tell me about Language Arts.
+2025-02-28 15:06:35,052 - INFO - Session started for Language Arts at Level 3
+2025-02-28 15:06:37,647 - INFO - User data saved
+2025-02-28 15:06:38,091 - INFO - Video feed stopped
+2025-02-28 15:06:38,091 - INFO - Returned to home from Language Arts
+2025-02-28 15:06:43,364 - INFO - Progress updated: Level 3, XP 140, Progress 0.8
+2025-02-28 15:06:44,099 - INFO - No specific video found, using webcam
+2025-02-28 15:06:44,125 - INFO - Video feed started
+2025-02-28 15:06:44,126 - INFO - Progress updated: Level 3, XP 140, Progress 0.8
+2025-02-28 15:06:44,126 - INFO - Loaded question: Tell me about Programming.
+2025-02-28 15:06:44,126 - INFO - Session started for Programming at Level 3
+2025-02-28 15:06:50,749 - INFO - Video feed stopped
